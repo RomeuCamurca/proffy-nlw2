@@ -1,1 +1,2 @@
-# proffy-nlw2
+# Proffy
+## :blue_book: O Projeto
