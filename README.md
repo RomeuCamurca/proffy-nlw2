@@ -10,4 +10,6 @@ O _Proffy_ é uma aplicação de cadastro de professores e de busca de professor
 
 ![Home](proffy-images/web/web-landing.png)
 
-![Busca](proffy-images/web/web-list.png)
+![List](proffy-images/web/web-list.png)
+
+![Create](proffy-images/web/web-create.jpeg)
