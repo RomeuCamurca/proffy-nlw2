@@ -8,5 +8,6 @@ O _Proffy_ é uma aplicação de cadastro de professores e de busca de professor
 
 ## :computer: Web
 
-![Home](ecoleta-images/web/ecoleta-home.png)
+![Home](proffy-images/web/web-landing.png)
 
+![Busca](proffy-images/web/web-list.png)
